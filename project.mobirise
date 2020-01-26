@@ -75,7 +75,9 @@
     "gdpr": false,
     "witsec-language": "en",
     "witsec-mailform": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/GameBoyLL/Documents/GitHub/GameBoyLL-Website"
   },
   "pages": {
     "index.html": {
